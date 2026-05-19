@@ -20,6 +20,9 @@ namespace hasan
             Console.WriteLine(res);
             Console.WriteLine(res.GetType());
 
+            double k=10.54774;// high precision
+            Console.WriteLine(k);
+
             // decimal datatype
             decimal a=10.54774;// high precision
             Console.WriteLine(a);
