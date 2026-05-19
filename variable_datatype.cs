@@ -24,7 +24,7 @@ namespace hasan
             Console.WriteLine(k);
 
             // decimal datatype
-            decimal a=10.54774;// high precision
+            decimal a=10.54774;// high precision .
             Console.WriteLine(a);
         }
     }
