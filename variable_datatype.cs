@@ -3,7 +3,7 @@ namespace hasan
 {
     class Program
     {
-        public static MatchCasing()
+        public static Main()
         {
             int num = 11;
             double bigName = num;
